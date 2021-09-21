@@ -1,15 +1,19 @@
-= RFC 000: Process, format, and conventions of FreeInit.org RFCs
+= RFC 000: A template for FreeInit.org RFCs
 FreeInit.org <freeinit@freeinit.org>
 v0.0, 2021-09-21
 
 == Abstract
-This RFC will serve as an example of how an RFC ought to be structured, and
-outline the process by which RFCs are submitted and the conventions to which
-they ought to adhere.
+This is a template for an FI.O RFC.
 
 == Status
-Proposed
+Under consideration
 
 == Rationale
 A concrete example of a FreeInit.org RFC is of clear benefit.
 
+== Main body
+There is no "Main body" section in an actual RFC; put in your own sections in
+this place instead, as many as you deem necessary.
+
+== Bibliography
+Here you may put references.
