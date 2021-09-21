@@ -1,0 +1,15 @@
+= RFC 000: Process, format, and conventions of FreeInit.org RFCs
+FreeInit.org <freeinit@freeinit.org>
+v0.0, 2021-09-21
+
+== Abstract
+This RFC will serve as an example of how an RFC ought to be structured, and
+outline the process by which RFCs are submitted and the conventions to which
+they ought to adhere.
+
+== Status
+Proposed
+
+== Rationale
+A concrete example of a FreeInit.org RFC is of clear benefit.
+
